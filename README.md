@@ -12,5 +12,6 @@ It helps users organize books, track reading progress, and stay motivated.
 Built with 💙 for learning and productivity.
 
 ## 🎥 Video
-[Watch Readly in action](assets/vid/Readly_app_vid.mp4)
+[Watch Readly in action](https://youtu.be/EmafJK56Ih8)!
+
 
