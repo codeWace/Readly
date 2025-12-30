@@ -10,3 +10,7 @@ It helps users organize books, track reading progress, and stay motivated.
 - Light & dark mode
 
 Built with 💙 for learning and productivity.
+
+## 🎥 Video
+[Watch Readly in action](assets/vid/Readly_app_vid.mp4)
+
