@@ -23,9 +23,9 @@ Readly started as a personal problem - keeping track of what I read without dist
 ## 📌 Status
 Actively improving and experimenting with features.
 
-Built with 💙 for learning and productivity.
-
 ## 🎥 Video
 [Watch Readly in action](https://youtu.be/EmafJK56Ih8)
+
+Built with 💙 for learning and productivity.
 
 
